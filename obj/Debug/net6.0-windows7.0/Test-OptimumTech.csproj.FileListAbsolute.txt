@@ -104,3 +104,4 @@ D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\obj\Debug\net6.0-window
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\obj\Debug\net6.0-windows7.0\Test-OptimumTech.genruntimeconfig.cache
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\obj\Debug\net6.0-windows7.0\ref\Test-OptimumTech.dll
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Debug\net6.0-windows7.0\HtmlAgilityPack.dll
+D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Debug\net6.0-windows7.0\OptimumTech.dll.config

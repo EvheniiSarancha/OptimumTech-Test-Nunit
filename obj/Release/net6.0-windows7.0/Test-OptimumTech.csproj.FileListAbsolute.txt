@@ -1,4 +1,3 @@
-D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Release\net6.0-windows7.0\CoverletSourceRootsMapping
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Release\net6.0-windows7.0\testhost.dll
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Release\net6.0-windows7.0\OptimumTech.deps.json
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Release\net6.0-windows7.0\OptimumTech.runtimeconfig.json
@@ -104,3 +103,5 @@ D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\obj\Release\net6.0-wind
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\obj\Release\net6.0-windows7.0\Test-OptimumTech.pdb
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\obj\Release\net6.0-windows7.0\Test-OptimumTech.genruntimeconfig.cache
 D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\obj\Release\net6.0-windows7.0\ref\Test-OptimumTech.dll
+D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Release\net6.0-windows7.0\CoverletSourceRootsMapping_Test-OptimumTech
+D:\Education\Projects\Coursework-(.Net)\Test-OptimumTech\bin\Release\net6.0-windows7.0\OptimumTech.dll.config

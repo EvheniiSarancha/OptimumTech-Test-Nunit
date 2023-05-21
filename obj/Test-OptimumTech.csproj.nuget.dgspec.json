@@ -122,7 +122,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.5.0, )"
+              "version": "[17.6.0, )"
             },
             "NUnit": {
               "target": "Package",
@@ -134,11 +134,13 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.4.2, )"
+              "version": "[4.5.0-alpha.4, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
