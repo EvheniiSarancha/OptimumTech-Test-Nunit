@@ -1,5 +1,4 @@
-﻿using NUnit.Framework;
-using Optimum_Tech.Models;
+﻿using Optimum_Tech.Models;
 
 namespace Test_OptimumTech.Tests
 {
