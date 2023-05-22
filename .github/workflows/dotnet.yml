@@ -27,5 +27,17 @@ jobs:
       - name: Build
         run: dotnet build --configuration Release
 
-      - name: Run NUnit tests
-        run: dotnet test --no-build --configuration Release --filter FullyQualifiedName~Test_OptimumTech.Tests
+      - name: Test GraphicsCards
+        run: dotnet test --no-build --configuration Release --filter "FullyQualifiedName~Test_OptimumTech.Tests.GraphicsCardsTests*"
+
+      - name: Test Processors
+        run: dotnet test --no-build --configuration Release --filter "FullyQualifiedName~Test_OptimumTech.Tests.ProcessorsTests*"
+
+      - name: Test Orders
+        run: dotnet test --no-build --configuration Release --filter "FullyQualifiedName~Test_OptimumTech.Tests.OrderTest*"
+
+      - name: Test Users
+        run: dotnet test --no-build --configuration Release --filter "FullyQualifiedName~Test_OptimumTech.Tests.UserTests*"
+
+      - name: Test Products
+        run: dotnet test --no-build --configuration Release --filter "FullyQualifiedName~Test_OptimumTech.Tests.ProductTests*"
