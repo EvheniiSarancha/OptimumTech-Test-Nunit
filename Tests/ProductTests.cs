@@ -2,7 +2,6 @@
 
 namespace Test_OptimumTech.Tests
 {
-    // A concrete class that inherits from the abstract Product class for testing purposes
     public class TestProduct : Product
     {
     }
